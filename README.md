@@ -1,8 +1,17 @@
-# PROYECTO_AS_2024
+# Arquitectura de software:
 
-MIEMBROS DEL EQUIPO: 
+## Integrantes del equipo:
 
-JULIO ELIAS CEBALLOS CAUICH
-RICARDO RUIZ UC 
-ERICK GILBERTO GOMEZ MANZANERO
-GILDARDO ADRIAN MALDONADO SANTIAGO
+
+|Foto                   | Nombre                          |
+|-----------------------|---------------------------------|
+| <img src="" width="150px">  | Julio Elias Ceballos | 
+| <img src="" width="150px">  | Ricardo Ruiz Uc     | 
+| <img src="" width="150px">  | Gildardo Maldonado Santiago    | 
+| <img src="./assets/varguez-breindel.jpg" width="150px">| ErickGómez Manzanero       | 
+
+
+
+## Entregas:
+
+[Entrega 1](./entrega1)
